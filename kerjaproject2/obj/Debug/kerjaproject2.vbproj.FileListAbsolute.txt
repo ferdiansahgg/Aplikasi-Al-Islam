@@ -1,0 +1,11 @@
+c:\users\dianshafer\documents\visual studio 2015\Projects\kerjaproject2\kerjaproject2\bin\Debug\kerjaproject2.exe.config
+c:\users\dianshafer\documents\visual studio 2015\Projects\kerjaproject2\kerjaproject2\bin\Debug\kerjaproject2.exe
+c:\users\dianshafer\documents\visual studio 2015\Projects\kerjaproject2\kerjaproject2\bin\Debug\kerjaproject2.pdb
+c:\users\dianshafer\documents\visual studio 2015\Projects\kerjaproject2\kerjaproject2\bin\Debug\kerjaproject2.xml
+c:\users\dianshafer\documents\visual studio 2015\Projects\kerjaproject2\kerjaproject2\obj\Debug\kerjaproject2.vbprojResolveAssemblyReference.cache
+c:\users\dianshafer\documents\visual studio 2015\Projects\kerjaproject2\kerjaproject2\obj\Debug\kerjaproject2.Form1.resources
+c:\users\dianshafer\documents\visual studio 2015\Projects\kerjaproject2\kerjaproject2\obj\Debug\kerjaproject2.Resources.resources
+c:\users\dianshafer\documents\visual studio 2015\Projects\kerjaproject2\kerjaproject2\obj\Debug\kerjaproject2.vbproj.GenerateResource.Cache
+c:\users\dianshafer\documents\visual studio 2015\Projects\kerjaproject2\kerjaproject2\obj\Debug\kerjaproject2.exe
+c:\users\dianshafer\documents\visual studio 2015\Projects\kerjaproject2\kerjaproject2\obj\Debug\kerjaproject2.xml
+c:\users\dianshafer\documents\visual studio 2015\Projects\kerjaproject2\kerjaproject2\obj\Debug\kerjaproject2.pdb
